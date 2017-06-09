@@ -1,2 +1,2 @@
 # Econopy
-Economic Inequality Metrics in Python
+Economic Inequality Metrics in Python for Thesis
