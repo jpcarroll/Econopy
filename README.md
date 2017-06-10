@@ -44,7 +44,7 @@ print (ep.hill(k))
 $  1.42639302646
 ```
 
-To graph a Cumulative distribution function (CDF) 
+To graph a Cumulative distribution function (CDF): 
 ```sh
 ep.cdf(j) 
 ```
