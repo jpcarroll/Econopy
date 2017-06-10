@@ -16,7 +16,6 @@ ________________________________________________________________________________
 ```sh
 $ git clone https://github.com/jpcarroll/Econopy.git
 $ cd Econopy
-$ python setup.py install
 ```
 
 ### Examples:
