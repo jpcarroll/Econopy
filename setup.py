@@ -6,7 +6,7 @@ setup(name='Econopy',
       author='Jack Carroll',
       author_email='jpcarrrolll@gmail.com',
       url='https://github.com/jpcarroll/Econopy',
-      download_url='https://github.com/mmngreco/IneqPy/tarball/0.0.2',
+      download_url='https://github.com/jpcarroll/Econopy/tarball/0.1',
       packages=['econopy'],
       install_requires=['numpy', 'matplotlib'],
      )
